@@ -1,0 +1,8 @@
+{
+  "name": "Streto Culture",
+  "description": "A high-end luxury digital storefront, collection lookbook, live drop countdown, and AI-powered boutique stylist dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
